@@ -72,6 +72,18 @@ header nav a:hover{
     margin-right: 12px;
 }
 
+.button{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+    padding: 15px 40px;
+}
+
 .buttones .button  a{
+    color: white;
     text-decoration: none;
+}
+
+.buttones .button a:hover{
+    color:var(--vermelho);
 }
