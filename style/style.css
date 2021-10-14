@@ -41,3 +41,37 @@ header nav a{
 header nav a:hover{
     color: #fff;
 }
+
+/* main movie */
+
+.main-movie{
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/la-casa-de-papel.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.main-movie .description{
+    margin-bottom: 40px;
+}
+
+.title{
+    font-size: 40px;
+    margin-right: 12px;
+}
+
+.description{
+    font-size: 15px;
+    margin-right: 12px;
+}
+
+.buttones .button  a{
+    text-decoration: none;
+}
