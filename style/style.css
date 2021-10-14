@@ -77,13 +77,13 @@ header nav a:hover{
     border: none;
     color: white;
     padding: 15px 40px;
+    margin-right: 15px;
+    border-radius: 5px;
+    cursor: pointer;
 }
 
-.buttones .button  a{
-    color: white;
-    text-decoration: none;
+button:hover{
+    background-color: var(--vermelho);
+    color: var(--preta);
 }
 
-.buttones .button a:hover{
-    color:var(--vermelho);
-}
