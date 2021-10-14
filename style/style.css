@@ -100,7 +100,14 @@ button:hover{
 }
 
 .movie-box{
+    margin:15px auto;
     height: 100%;
     width: 100%;
     display: block;
+    transition: transform .2s;
+}
+
+.movie-box:hover{
+    
+    transform: scale(0.89);
 }
