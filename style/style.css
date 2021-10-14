@@ -98,3 +98,9 @@ button:hover{
 .main-movie .container{
     width: 60%;
 }
+
+.movie-box{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
