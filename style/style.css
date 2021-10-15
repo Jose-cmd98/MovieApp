@@ -112,3 +112,7 @@ button:hover{
     
     transform: scale(0.89);
 }
+
+.carrosel{
+    margin-top: 10px;
+}
