@@ -69,6 +69,11 @@ header nav a:hover{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif';
 }
 
+.maturity{
+    border: 1px solid #a1a1a1;
+    padding: 0px 5px;
+}
+
 .description{
     font-size: 15px;
     margin-right: 12px;
