@@ -114,5 +114,14 @@ button:hover{
 }
 
 .carrosel{
+    
     margin-top: 10px;
+}
+
+.carrosel span{
+    font-weight: bolder;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
 }
